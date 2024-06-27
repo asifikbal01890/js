@@ -18,15 +18,18 @@ var isMale = true;
 var isFemale = false;
 
 // don't use this
- var my friend = 'asif';
- var my-friend = 'asif';
- var 01friend = 'asif';
- var "price" = 2000;
+//  var my friend = 'asif';
+//  var my-friend = 'asif';
+//  var 01friend = 'asif';
+//  var "price" = 2000;
 
 // use like this
 var myfriend = 'asif';
-var my_friend = 'asif';  //shanke case
+var my_friend = 'asif';  //snake case
 var myFriend = 'asif'; // camel case
 
 
 var areYouGoToSchool = true; // camel case
+
+
+
